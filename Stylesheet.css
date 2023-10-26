@@ -1,0 +1,112 @@
+.header
+{
+     margin: 0%;
+    width: 100%;
+    height: 50px;
+  
+    display: flex;
+}
+body{
+    margin: 0%;
+    background-color:white;
+}
+
+.logo
+{
+    width: 70%;
+   background-color: whitesmoke;
+    
+}
+.pages
+{
+ width:30% ;
+ background-color:whitesmoke;
+ display: flex;
+}
+.home
+{
+ width:15% ;
+ display: flex;
+}
+.About
+{
+ width:15% ;
+ display: flex;
+}
+
+.why
+{
+ width:35% ;
+ display: flex;
+}
+.contact
+{
+ width:20% ;
+ display: flex;
+}
+
+
+.logoimg
+{  
+    margin-left: 150px;
+    width: 50px;
+    height: 50px;
+ }
+.welcome
+{
+  margin-left: 50px;  
+  margin-right: 50px;
+   width: 100%;
+   height: 700px;
+   display:flex ;
+}
+
+.welcomeimg
+{
+    margin-left: 150px;
+    width: 50%;
+    height: 500px;
+    display: flex;
+}
+.data
+{
+    width: 50%;
+    height: 700px;
+    text-align: justify;
+    font-size: 18px;
+    font-style: normal;
+    margin-right: 50px;
+    
+
+}
+.col
+{
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.Special
+{
+    width: 20%;
+    height: 500px;
+    display: flex;
+    border: whitesmoke;
+}
+.capabilities
+{
+    width: 40%;
+    height: 500px;
+    display: flex;
+}
+.deliver
+{
+    width: 40%;
+    height: 500px;
+    display: flex;
+}
+.contact{
+    
+    width: 400px;
+    height: 400px;
+    
+}
